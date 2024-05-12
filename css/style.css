@@ -1,0 +1,16 @@
+.main-title{
+    font-size: 80px;
+    font-weight: 900;
+    font-family: Impact;
+}
+.btn {
+    --bs-btn-padding-x: 70px;
+    --bs-btn-padding-y: 30px;
+    --bs-btn-border-radius: none;
+    --bs-btn-border: 3px solid ;
+}
+.btn-success {
+    --bs-btn-color: #fff;
+    --bs-btn-bg: #192087;
+    --bs-btn-border-color: #000000;
+}
